@@ -1,0 +1,38 @@
+_repo: Yhteiskuntasopimuksesta-eli-Valtio-oikeuden-johtavat-aatteet_53593
+_version: 0.0.1
+alternative_title: Du contrat social. Finnish
+contributor:
+  translator:
+    agent_name: Lehtonen, J. V.
+    alias: Lehtonen, Johannes Vihtori
+    birthdate: 1883
+    deathdate: 1948
+    gutenberg_agent_id: '49411'
+    url: http://www.gutenberg.org/2009/agents/49411
+creator:
+  author:
+    agent_name: Rousseau, Jean-Jacques
+    aliases:
+    - Rousseau, J. J. (Jean-Jacques)
+    - Rousseau, Jean Jacques
+    birthdate: 1712
+    deathdate: 1778
+    gutenberg_agent_id: '1286'
+    url: http://www.gutenberg.org/2009/agents/1286
+    wikipedia: http://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
+description: ''
+gutenberg_issued: '2016-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53593'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JC'
+- !lcsh 'Social contract'
+- !lcsh 'Political science'
+- GITenberg
+title: Yhteiskuntasopimuksesta, eli, Valtio-oikeuden johtavat aatteet
+url: http://www.gutenberg.org/ebooks/53593
