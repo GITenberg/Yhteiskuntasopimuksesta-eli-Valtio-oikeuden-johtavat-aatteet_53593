@@ -1,5 +1,5 @@
 _repo: Yhteiskuntasopimuksesta-eli-Valtio-oikeuden-johtavat-aatteet_53593
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Du contrat social. Finnish
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     deathdate: 1948
     gutenberg_agent_id: '49411'
     url: http://www.gutenberg.org/2009/agents/49411
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rousseau, Jean-Jacques
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1286
     wikipedia: http://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53593#Yhteiskuntasopimuksesta-eli-Valtio-oikeuden-johtavat-aatteet
 gutenberg_issued: '2016-11-25'
 gutenberg_type: Text
 identifiers:
